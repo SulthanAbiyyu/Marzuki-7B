@@ -1,0 +1,10 @@
+langchain
+peft
+trl
+huggingface_hub
+transformers
+numpy
+pandas
+datasets
+torch
+wandb
